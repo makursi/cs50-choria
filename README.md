@@ -1,17 +1,17 @@
 # CS50x 2026
 
-Harvard CS50x 2026 — Introduction to Computer Science 个人学习日志。
+Harvard CS50x 2026 — Introduction to Computer Science, a personal learning log.
 
-## 目录
+## Contents
 
-- `week-0-scratch/` — Scratch 与计算思维
-- `week-1-c/` — C 语言基础
-- `week-2-arrays/` — 数组与字符串
-- `week-3-algorithms/` — 算法
-- `week-4-memory/` — 内存管理
-- `week-5-data-structures/` — 数据结构
+- `week-0-scratch/` — Scratch & Computational Thinking
+- `week-1-c/` — C Fundamentals
+- `week-2-arrays/` — Arrays & Strings
+- `week-3-algorithms/` — Algorithms
+- `week-4-memory/` — Memory Management
+- `week-5-data-structures/` — Data Structures
 - `week-6-python/` — Python
 - `week-7-sql/` — SQL
-- `week-8-html-css-js/` — 前端 Web
-- `week-9-flask/` — Flask 后端
-- `week-10-cybersecurity/` — 网络安全
+- `week-8-html-css-js/` — Frontend Web
+- `week-9-flask/` — Flask Backend
+- `week-10-cybersecurity/` — Cybersecurity
