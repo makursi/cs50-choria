@@ -2,10 +2,28 @@
 *.exe
 *.o
 *.out
+*.a
+*.so
+*.so.*
+*.dylib
 
 # Python
 __pycache__/
+*.pyc
+*.pyo
 
 # IDE
 .vscode/
 .idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Dependencies (if any)
+node_modules/
